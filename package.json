@@ -1,0 +1,21 @@
+{
+  "name": "dss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zombie",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+}
